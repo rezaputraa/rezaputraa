@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @rezaputraa! 👋
 
-- 👀 I’m interested in developing a game. 🎮
+- 👀 I’m interested in developing games. 🎮
 - 🌱 I’m currently learning Web Development. 👌
 
 <!---
